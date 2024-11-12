@@ -75,7 +75,8 @@
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 9999;
-    width: 300px;
+    width: 100%;
+    max-width: 300px;
   }
 
   .toasts-item {

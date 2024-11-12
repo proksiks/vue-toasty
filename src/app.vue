@@ -10,10 +10,6 @@
   function hello() {
     sayHello(message.value);
   }
-
-  onMounted(() => {
-    hello();
-  });
 </script>
 
 <style>

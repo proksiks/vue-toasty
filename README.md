@@ -1,3 +1,5 @@
+[ССЫЛКА НА ДЕМО](https://proksiks.github.io/vue-toasty/)
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
